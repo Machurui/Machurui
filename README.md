@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Machurui&show_icons=true&theme=dark&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Machurui&theme=dark&hide_border=true)
+![Github Stats](https://machurui.vercel.app/api?username=Machurui&show_icons=true&theme=dark&hide_border=true)
+![Most Used Languages](https://machurui.vercel.app/api/top-langs/?username=Machurui&theme=dark&hide_border=true)
 
 ## Last Project
 
