@@ -5,15 +5,19 @@
 
 ## Last Project
 
+# Dev
+- Development of a Personal Project API in ASP.NET *(ongoing)*
+
+# Infra
 - Deployment and Configuration of a Virtualization Server with Proxmox  
 - Implementation of Two Active Directory Domain Controllers  
 - Installation and Administration of an Exchange Server 2019  
 - Creation of a Secure Private Cloud with Nextcloud  
 - Installation and Management of a MySQL Server with PhpMyAdmin Interface or Webmin  
 - CI/CD Pipeline Implementation with Jenkins and SonarQube  
-- Development of a Personal Project API in ASP.NET *(ongoing)*  
 - Deployment of a Backup Solution Using Veeam  
 - Creation of a Kubernetes Cluster and Centralized Management with Rancher
+- Deployment of a Pi-hole instance
   
 
 
