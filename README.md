@@ -7,6 +7,8 @@
 
 # Dev
 - Development of a Personal Project API in ASP.NET *(ongoing)*
+- MCP To test API, Front and do fuzz tests
+- SQLLab to optimize multiples database request (SQL/NO SQL)
 
 # Infra
 - Deployment and Configuration of a Virtualization Server with Proxmox  
